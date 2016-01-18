@@ -1,0 +1,17 @@
+<div class="fullbody">
+  <div class="header">
+    <img class="home-logo" src="images/LOGO.svg"></img>
+  </div>
+  <div class="container">
+    <div class="strip-page">
+      <p>Please enter your details</p>
+      <form class="simple-form" ng-submit="upload()">
+        <input type="text" ng-model="user.name" placeholder="Your Name" required class="form-control"/><br />
+        <input type="email" ng-model="user.email" placeholder="your@email.address" required class="form-control"/><br />
+        <input type="tel" ng-model="user.phone_number" placeholder="+1233455670" minlength=8 required class="form-control"/><br />
+        <input type="password" ng-model="user.password"  minlength=8 placeholder="password" required class="form-control"/><br />
+        <input type="submit" class="btn btn-success" value="Register Now" />
+      </form>
+    </div>
+  </div>
+</div>

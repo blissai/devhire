@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>LOGO</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard" sketch:type="MSArtboardGroup">
+            <g id="LOGO" sketch:type="MSLayerGroup">
+                <g id="Group-7">
+                    <text id="H" sketch:type="MSTextLayer" font-family="Helvetica" font-size="60" font-weight="normal" fill="#C15858">
+                        <tspan x="64" y="87">H</tspan>
+                    </text>
+                    <text id="D" sketch:type="MSTextLayer" font-family="Helvetica" font-size="60" font-weight="normal" fill="#C15858">
+                        <tspan x="20" y="87">D</tspan>
+                    </text>
+                    <path d="M64,-0.000116363636 C28.7104,-0.000116363636 0,28.7102836 0,63.9998836 C0,99.2900655 28.7104,127.999884 64,127.999884 C99.2896,127.999884 128,99.2900655 128,63.9998836 C128,28.7102836 99.2896,-0.000116363636 64,-0.000116363636 M64,120.470575 C32.8622545,120.470575 7.52930909,95.1376291 7.52930909,63.9998836 C7.52930909,32.8621382 32.8622545,7.52919273 64,7.52919273 C95.1377455,7.52919273 120.470691,32.8621382 120.470691,63.9998836 C120.470691,95.1376291 95.1377455,120.470575 64,120.470575" id="Fill-5" fill="#6B6E6E" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
